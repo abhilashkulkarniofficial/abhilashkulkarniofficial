@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working with Bloominmind HealthTech Inc.
+- 🔭 I'm a Technical Lead with Bloominmind HealthTech Inc.
+- 💻 I'm currently working on my portfolio [a link](https://abhilashkulkarniofficial.github.io/abhilash-kulkarni/)
