@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭  I'm a Technical Lead with Bloominmind HealthTech Inc.
 - 💻  I'm currently working on my [portfolio](https://abhilashkulkarniofficial.github.io/abhilash-kulkarni/)
-- 📫  How to reach me: [Abhilash Kulkarni](mailto:abhilashkulkarniofficial@gmail.com?subject=[GitHub]%20Hi%20There) 
+- 📫  How to reach me: [Email Me!](mailto:abhilashkulkarniofficial@gmail.com?subject=[GitHub]%20Hi%20There) 
