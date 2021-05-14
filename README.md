@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫  How to reach me: [Email Me!](mailto:abhilashkulkarniofficial@gmail.com?subject=[GitHub]%20Hi%20There) 
 - 📖  Checkout my resourses for programmers, [The Temple of Treasures](https://github.com/abhilashkulkarniofficial/temple-of-treasure)
 - 🇺🇸  Checkout my [Masters-USA](https://github.com/abhilashkulkarniofficial/masters-usa) repo for students aspiring to pursue masters in the USA.
-
+- 🎮  Join my discord server, [Abhilash's Codehive](https://discord.gg/8V624U6KXu)
   
        
   
