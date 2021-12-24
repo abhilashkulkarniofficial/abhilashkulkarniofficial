@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->. 
 
-- 🔭  I'm a Technical Lead and a Full Stack Developer at Bloominmind HealthTech Inc.
+- :v: I'm pursuing M.S. in Computer Science at USC Viterbi School of Engineering
+- 🔭  I'm a Full Stack Developer and Data Scientist.
 - 💻  I'm currently working on my [portfolio](https://abhilashkulkarni.herokuapp.com/)
 - 📫  How to reach me: [Email Me!](mailto:abhilashkulkarniofficial@gmail.com?subject=[GitHub]%20Hi%20There) 
 - 📖  Checkout my resourses for programmers, [The Temple of Treasures](https://github.com/abhilashkulkarniofficial/temple-of-treasure)
